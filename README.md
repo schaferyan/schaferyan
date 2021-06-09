@@ -6,7 +6,9 @@ A love for creative problem solving and a passion for exploring what technology 
 technology inspires me every day. I'm hoping to find long term employment in the industry soon, but I am also excited to get involved in some exciting open source projects.
 
 I'd especially love to collaborate on any social justice or music related coding projects. 
-I'm also interested in projects related to writing, editing, and publishing, and have an eye for good written content - my Bachelar's was in Creative Writing.
+I'm also interested in projects related to writing, editing, and publishing, and have an eye for good written content.
+
+You can email me at schaferyan@gmail.com if you're interested in working together.
 
 <!---
 schaferyan/schaferyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
