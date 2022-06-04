@@ -1,6 +1,6 @@
 ### 👋**Hello, I'm Ryan Schafer**
 
-As a Software Developer, I take pride in my resilience and adaptability. I have strong Java, Javascript, HTML, and CSS fundamentals and a knack for learning and implementing new technologies, frameworks, and paradigms. I derive a feeling of immense satisfaction from solving challenging technical dilemmas. My love for solving complex problems, applying logic, and making things work is what drew me to a programming career. 
+I'm a software developer with strong Java, Javascript, HTML, and CSS fundamentals and a knack for learning and implementing new technologies, frameworks, and paradigms. I derive a feeling of immense satisfaction from solving challenging technical dilemmas. My love for solving complex problems, applying logic, and making things work is what drew me to a programming career. 
 
 Since deciding to become a professional software developer in 2020, I've worked hard to expand my programming knowledge through a rigorous self-taught curriculum of online classes, free tutorials, books, and independent projects. I'm prepared to take my learning journey to it's next logical step - getting involved professionally and joining a company in a junior, apprentice or intern role. 
 
