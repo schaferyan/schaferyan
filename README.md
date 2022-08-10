@@ -8,7 +8,7 @@ I enjoy front end work and have particularly enjoyed building applications with 
 
 Besides seeking a professional development role, I'm looking to further expand my horizons, and gain experience working collaboratively on interesting projects. I'm inspired by the collaborative, co-creation based world of the open-source community, and I would love to hear about any open-source projects that could use my help.
 
-My BA was in English and I have Tehnical Writing training - if your project needs documentation, I can help. 
+My BA was in English and I have Technical Writing training - if your project needs documentation, I can help. 
 
 Currently the best way to reach me is by emailing me at contact@ryanschafer.dev.
 
